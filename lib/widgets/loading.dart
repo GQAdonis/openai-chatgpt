@@ -20,9 +20,8 @@ class Loading extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Expanded(
-            flex: 1,
             child: Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.all(8),
               child: Container(
                 color: const Color(0xff0fa37f),
                 padding: const EdgeInsets.all(3),

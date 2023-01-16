@@ -2,7 +2,7 @@
 const endpoint = 'https://api.openai.com/v1/';
 
 /// API key
-const aiToken = '[put token here]';
+const aiToken = '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';
 
 /// Email for Gravatar image
-const emailAddress = '[insert email for gravatar]';
+const emailAddress = 'travis@tribehealthsolutions.com';

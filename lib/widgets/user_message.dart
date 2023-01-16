@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gravatar/flutter_gravatar.dart';
 import 'package:openai_chat/api_constants.dart';
+import 'package:openai_chat/widgets/tracked_widget.dart';
 
 /// User Message
 class UserMessage extends StatelessWidget {
@@ -65,4 +66,5 @@ class UserMessage extends StatelessWidget {
       ),
     );
   }
+
 }
